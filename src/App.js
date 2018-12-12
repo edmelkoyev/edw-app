@@ -20,7 +20,7 @@ class App extends Component {
             Learn React
           </a>
           <p>
-            Feature f001 text line
+            Feature f001 text line modified
           </p>
         </header>
       </div>
