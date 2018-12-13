@@ -26,6 +26,9 @@ class App extends Component {
             Feature f002 text line modified
           </p>
           <p>
+            Feature f101 text line added
+          </p>
+          <p>  
             Feature fu202 text line update
           </p>
         </header>
