@@ -28,7 +28,9 @@ class App extends Component {
           <p>
             New feature ft301 for next Relese last minute changes
           </p>
-	  <p>alx-br01 contribution</p>
+	         <p>
+             alx-br01 contribution
+          </p>
         </header>
       </div>
     );
