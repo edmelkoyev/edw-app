@@ -26,7 +26,10 @@ class App extends Component {
             Feature f002 text line modified
           </p>
           <p>
-            Feature f003 text line added
+            New feature ft301 for next Relese last minute changes
+          </p>
+	         <p>
+             alx-br01 contribution
           </p>
         </header>
       </div>
